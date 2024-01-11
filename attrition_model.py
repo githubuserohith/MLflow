@@ -80,7 +80,7 @@ def fn_model(df):
         ('gb', gb_clf),
         ('lr', lr_clf)
     #     ('svc', svc_clf)
-    ], voting='soft') 
+    ], voting='soft')
 
     hard_voting_clf.fit(X_train, y_train)
     hard_voting_predictions = hard_voting_clf.predict(X_train)
