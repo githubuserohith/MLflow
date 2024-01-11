@@ -1,0 +1,20 @@
+/.ipynb_checkpoints
+/demo of mflow in decision tree and iris.ipynb
+/demo starting mlflow tracking server.ipynb
+/German credit.ipynb
+/intro to mlflow.pptx
+/mlartifacts
+/mlflow demos.rar
+/mlruns
+/play mlflow diaclf.ipynb
+/play_access_specific_registered_model_version.py
+/play_get_experiment_details.py
+/play_hyperparameter_tuning_mlflow.py
+/play_linreg_mlflow_streamlit_fit_model.py
+/play_linreg_mlflow_streamlit_use_model_v2.py
+/play_mlop.ipynb
+/play_register_model_mlflow.py
+/Untitled.ipynb
+/V2_play.ipynb
+/__pycache__
+/~$intro to mlflow.pptx
