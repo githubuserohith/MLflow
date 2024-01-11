@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # os.chdir(r"")
-df = pd.read_csv("C:\\Users\\rohit\\anaconda3\\Scripts\\AML\\Dataset\\IBM.csv")
+df = pd.read_csv("IBM.csv")
 
 model,pp,X_train,X_test,y_train,y_test,model_list = am.fn_model(df)
 # print(model)
