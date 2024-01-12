@@ -12,7 +12,8 @@ def fn_mlflow(model,X_train,X_test,y_train,y_test,model_list):
     cwd = os.getcwd()
 
     # Create a subdirectory for MLflow
-    mlflow_dir = os.path.join(cwd, "mlruns")
+    # mlflow_dir = os.path.join(cwd, "mlruns")
+    mlflow_dir = "mlruns"
 
     # Check if the directory exists and is accessible
     if os.access(mlflow_dir, os.R_OK):
@@ -23,7 +24,7 @@ def fn_mlflow(model,X_train,X_test,y_train,y_test,model_list):
         os.makedirs(mlflow_dir, exist_ok=True)
     
     # Set the tracking URI to the MLflow directory
-    mlflow.set_tracking_uri('file://' + mlflow_dir)
+    # mlflow.set_tracking_uri('file://' + mlflow_dir)
 
     mlflow.set_tracking_uri('http://localhost:5000') 
    
