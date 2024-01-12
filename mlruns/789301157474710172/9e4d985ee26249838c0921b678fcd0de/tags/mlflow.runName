@@ -1,0 +1,6 @@
+VotingClassifier(estimators=[('rf', GradientBoostingClassifier()),
+                             ('gb', AdaBoostClassifier(random_state=42)),
+                             ('lr',
+                              LogisticRegression(class_weight='balanced',
+                                                 random_state=42))],
+                 voting='soft')

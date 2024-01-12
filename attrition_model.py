@@ -156,6 +156,7 @@ def fn_model(df):
     print('Precision:', precision)
     print('F1 Score:', f1_score)
 
+    model_list.append(hard_voting_clf)
     return (hard_voting_clf,pp,X_train,X_test,y_train,y_test,model_list)
 
 def fn_pipe(df,type,model,pp):
