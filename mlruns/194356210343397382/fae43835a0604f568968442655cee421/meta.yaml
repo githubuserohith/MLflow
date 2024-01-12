@@ -1,0 +1,16 @@
+artifact_uri: file://C:\Users\rohit\anaconda3\envs\streamlite\Scripts\MLOP\session
+  - MLflow\mlruns/194356210343397382/fae43835a0604f568968442655cee421/artifacts
+end_time: 1702260285070
+entry_point_name: ''
+experiment_id: '194356210343397382'
+lifecycle_stage: active
+run_id: fae43835a0604f568968442655cee421
+run_name: incongruous-bass-813
+run_uuid: fae43835a0604f568968442655cee421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702260285033
+status: 3
+tags: []
+user_id: rohit

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/394390388790298333/7a825ed444f147f7beff529b1820a646/artifacts
+end_time: 1703946906639
+entry_point_name: ''
+experiment_id: '394390388790298333'
+lifecycle_stage: active
+run_id: 7a825ed444f147f7beff529b1820a646
+run_name: SLR_Model
+run_uuid: 7a825ed444f147f7beff529b1820a646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703946901287
+status: 3
+tags: []
+user_id: rohit

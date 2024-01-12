@@ -3,9 +3,9 @@
 /demo starting mlflow tracking server.ipynb
 /German credit.ipynb
 /intro to mlflow.pptx
-/mlartifacts
+# /mlartifacts
 /mlflow demos.rar
-/mlruns
+# /mlruns
 /play mlflow diaclf.ipynb
 /play_access_specific_registered_model_version.py
 /play_get_experiment_details.py

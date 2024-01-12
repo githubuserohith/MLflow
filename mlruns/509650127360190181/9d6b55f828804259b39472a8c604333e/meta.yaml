@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rohit/anaconda3/envs/streamlite/Scripts/MLOP/session%20-%20MLflow/mlruns/509650127360190181/9d6b55f828804259b39472a8c604333e/artifacts
+end_time: 1702260322173
+entry_point_name: ''
+experiment_id: '509650127360190181'
+lifecycle_stage: active
+run_id: 9d6b55f828804259b39472a8c604333e
+run_name: alpha_0.01_l1_ratio_0.05
+run_uuid: 9d6b55f828804259b39472a8c604333e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702260319692
+status: 3
+tags: []
+user_id: rohit

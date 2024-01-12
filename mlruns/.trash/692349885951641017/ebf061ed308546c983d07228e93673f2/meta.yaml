@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/692349885951641017/ebf061ed308546c983d07228e93673f2/artifacts
+deleted_time: 1704955451891
+end_time: 1704448853776
+entry_point_name: ''
+experiment_id: '692349885951641017'
+lifecycle_stage: deleted
+run_id: ebf061ed308546c983d07228e93673f2
+run_name: run_attrition
+run_uuid: ebf061ed308546c983d07228e93673f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704448847910
+status: 3
+tags: []
+user_id: rohit

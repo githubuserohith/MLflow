@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1704449071118
+current_stage: None
+description: ''
+last_updated_timestamp: 1704449071118
+name: play_attrition
+run_id: 52be1ffd984a4fa08ed3d109184fd065
+run_link: ''
+source: mlflow-artifacts:/692349885951641017/52be1ffd984a4fa08ed3d109184fd065/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/692349885951641017/52be1ffd984a4fa08ed3d109184fd065/artifacts/model
+user_id: null
+version: 61

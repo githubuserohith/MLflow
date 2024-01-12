@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/843864240257106286/a27ddb3e4ec14dbf85f773636375c16c/artifacts
+end_time: 1702269369168
+entry_point_name: ''
+experiment_id: '843864240257106286'
+lifecycle_stage: active
+run_id: a27ddb3e4ec14dbf85f773636375c16c
+run_name: credit
+run_uuid: a27ddb3e4ec14dbf85f773636375c16c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702269369118
+status: 4
+tags: []
+user_id: rohit

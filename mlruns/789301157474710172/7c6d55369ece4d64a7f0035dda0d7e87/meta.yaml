@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/789301157474710172/7c6d55369ece4d64a7f0035dda0d7e87/artifacts
+end_time: 1705002259526
+entry_point_name: ''
+experiment_id: '789301157474710172'
+lifecycle_stage: active
+run_id: 7c6d55369ece4d64a7f0035dda0d7e87
+run_name: DecisionTreeClassifier()
+run_uuid: 7c6d55369ece4d64a7f0035dda0d7e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705002255504
+status: 3
+tags: []
+user_id: rohit

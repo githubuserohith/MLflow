@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/947052360512411475/5f6a5b2be0f14f9fb87f1549ed99b735/artifacts
+end_time: 1703949577793
+entry_point_name: ''
+experiment_id: '947052360512411475'
+lifecycle_stage: active
+run_id: 5f6a5b2be0f14f9fb87f1549ed99b735
+run_name: max_depth_1
+run_uuid: 5f6a5b2be0f14f9fb87f1549ed99b735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703949572635
+status: 3
+tags: []
+user_id: rohit

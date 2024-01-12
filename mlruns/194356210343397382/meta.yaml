@@ -1,0 +1,7 @@
+artifact_location: file://C:\Users\rohit\anaconda3\envs\streamlite\Scripts\MLOP\session
+  - MLflow\mlruns/194356210343397382
+creation_time: 1702260284859
+experiment_id: '194356210343397382'
+last_update_time: 1702260284859
+lifecycle_stage: active
+name: play_experiment
